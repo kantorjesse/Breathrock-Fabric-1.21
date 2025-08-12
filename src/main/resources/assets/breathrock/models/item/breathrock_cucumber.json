@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "breathrock:item/breathrock_grape"
+    "layer0": "breathrock:item/breathrock_cucumber"
   }
 }
